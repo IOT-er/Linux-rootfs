@@ -1,0 +1,25 @@
+Date: Aug.25.2016 
+Author: An Xiang
+------------------------------
+busybox add commands:
+id 
+hwclock
+
+delete console command number prompt
+[root@CMIOT etc]1
+[root@CMIOT etc]2
+..........
+
+support telnetd tftp ctrl+c
+auto login with root
+------------------------------
+Date: Oct.28.2016
+Author: An Xiang
+/bin add: ll
+change ip to : 192.168.209.1
+change prompt name to : Donkey
+support glibc
+------------------------------
+Date: Dec.28.2016
+Author: An Xiang
+Add: devmg, trash
